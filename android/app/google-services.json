@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "431682292863",
+    "project_id": "essile-b706c",
+    "storage_bucket": "essile-b706c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431682292863:android:35cfd54ae7371791b6834a",
+        "android_client_info": {
+          "package_name": "com.googlesolution.essile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431682292863-ej0jqkugb1mhn7en1rqqq62pjbenhgr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWuk3K0WKl3ES66AyKZQJT09gEwwNRII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431682292863-ej0jqkugb1mhn7en1rqqq62pjbenhgr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431682292863-qljjdfpu6880833pa9i6hgabjqfh21gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.googlesolution.essile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431682292863-qljjdfpu6880833pa9i6hgabjqfh21gh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431682292863-qljjdfpu6880833pa9i6hgabjqfh21gh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyu7p8nRLRSY7hwwZiey_x7egeJ04UCWs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431682292863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.googlesolution.essile</string>
+	<key>PROJECT_ID</key>
+	<string>essile-b706c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>essile-b706c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431682292863:ios:834229c795b3d045b6834a</string>
+</dict>
+</plist>

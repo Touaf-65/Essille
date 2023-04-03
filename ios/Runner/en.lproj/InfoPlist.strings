@@ -1,0 +1,4 @@
+NSPhotoLibraryUsageDescription = "Autorize";
+NSCalendarsUsageDescription = "Allow ";
+PermissionGroupNotification = "Enable this app to send notifications on your phone";
+NSFaceIDUsageDescription = "Use your  biometrics for authentication";
